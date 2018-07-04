@@ -5,6 +5,9 @@
 [Bb]uilds/
 Assets/AssetStoreTools*
 
+# giant landscape scene thats too big for Unity
+Mino Escape 10.unity
+
 # Visual Studio cache directory
 .vs/
 
